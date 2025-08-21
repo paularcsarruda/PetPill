@@ -7,8 +7,6 @@
 
 # PetPill
 
-aplicativo mobile desenvolvido para gerenciar medicamentos de pets.
-
 ##  MockUp - Figma
 
 <img width="1290" height="480" alt="Captura de tela 2025-08-21 125808" src="https://github.com/user-attachments/assets/f2eb0e88-9b18-4dea-932f-b995c6b89514" />
